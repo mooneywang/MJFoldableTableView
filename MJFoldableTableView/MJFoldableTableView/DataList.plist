@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>headTitle</key>
+		<string>宝马</string>
+		<key>list</key>
+		<array>
+			<string>1系</string>
+			<string>2系</string>
+			<string>3系</string>
+			<string>5系</string>
+			<string>7系</string>
+		</array>
+	</dict>
+	<dict>
+		<key>headTitle</key>
+		<string>奥迪</string>
+		<key>list</key>
+		<array>
+			<string>A1</string>
+			<string>A3</string>
+			<string>A4L</string>
+			<string>Q3</string>
+			<string>Q5</string>
+			<string>S5</string>
+			<string>S7</string>
+			<string>R8</string>
+		</array>
+	</dict>
+	<dict>
+		<key>headTitle</key>
+		<string>大众</string>
+		<key>list</key>
+		<array>
+			<string>朗逸</string>
+			<string>甲壳虫</string>
+			<string>帕萨特</string>
+			<string>迈腾</string>
+		</array>
+	</dict>
+	<dict>
+		<key>headTitle</key>
+		<string>丰田</string>
+		<key>list</key>
+		<array>
+			<string>汉兰达</string>
+			<string>普拉多</string>
+			<string>兰德酷路泽</string>
+			<string>RAV4</string>
+			<string>锐志</string>
+			<string>凯美瑞</string>
+		</array>
+	</dict>
+</array>
+</plist>
